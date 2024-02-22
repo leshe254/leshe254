@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leshe254
-- 👀 I’m interested in Java Developing for Desktops
+- 👀 I’m interested in Java Developing and creating Python scripts for Desktops
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
